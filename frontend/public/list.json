@@ -1,0 +1,236 @@
+[
+    {
+      "id": 1,
+      "author": "Alice Johnson",
+      "title": "JavaScript: The Good Parts",
+      "price": 29.99,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An insightful look into the best parts of JavaScript by Alice Johnson."
+    },
+    {
+      "id": 2,
+      "author": "Bob Smith",
+      "title": "Think Python: How to Think Like a Computer Scientist",
+      "price": 0.00,
+      "category": "free",
+      "img":"../../public/bookimg.jpg",
+      "description": "An introductory guide to Python programming by Bob Smith."
+    },
+    {
+      "id": 3,
+      "author": "Carol Williams",
+      "title": "Eloquent JavaScript",
+      "price": 45.50,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A modern introduction to JavaScript by Carol Williams."
+    },
+    {
+      "id": 4,
+      "author": "David Brown",
+      "title": "HTML and CSS: Design and Build Websites",
+      "price": 0.00,
+      "category": "free",
+      "img":"../../public/bookimg.jpg",
+      "description": "A comprehensive guide to HTML and CSS by David Brown."
+    },
+    {
+      "id": 5,
+      "author": "Emma Davis",
+      "title": "The C++ Programming Language",
+      "price": 60.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An authoritative guide to C++ programming by Emma Davis."
+    },
+    {
+      "id": 6,
+      "author": "Frank Miller",
+      "title": "Calculus Made Easy",
+      "price": 35.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An accessible introduction to calculus by Frank Miller."
+    },
+    {
+      "id": 7,
+      "author": "Grace Lee",
+      "title": "Introduction to Algebra",
+      "price": 0.00,
+      "category": "free",
+      "img":"../../public/bookimg.jpg",
+      "description": "A beginner's guide to algebra by Grace Lee."
+    },
+    {
+      "id": 8,
+      "author": "Hannah Clark",
+      "title": "Physics for Scientists and Engineers",
+      "price": 80.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A detailed physics textbook for scientists and engineers by Hannah Clark."
+    },
+    {
+      "id": 9,
+      "author": "Ian Thompson",
+      "title": "Conceptual Physics",
+      "price": 50.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A conceptual approach to learning physics by Ian Thompson."
+    },
+    {
+      "id": 10,
+      "author": "Julia Roberts",
+      "title": "Organic Chemistry: Principles and Mechanisms",
+      "price": 90.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An in-depth look at organic chemistry by Julia Roberts."
+    },
+    {
+      "id": 11,
+      "author": "Kevin White",
+      "title": "Biology: The Essentials",
+      "price": 0.00,
+      "category": "free",
+      "img":"../../public/bookimg.jpg",
+      "description": "A foundational guide to biology by Kevin White."
+    },
+    {
+      "id": 12,
+      "author": "Laura Green",
+      "title": "Introduction to Sociology",
+      "price": 25.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An introduction to sociology by Laura Green."
+    },
+    {
+      "id": 13,
+      "author": "Michael Blue",
+      "title": "World History: A Concise Thematic Analysis",
+      "price": 40.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A concise thematic analysis of world history by Michael Blue."
+    },
+    {
+      "id": 14,
+      "author": "Natalie Black",
+      "title": "Art History Volume 1",
+      "price": 55.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An exploration of art history by Natalie Black."
+    },
+    {
+      "id": 15,
+      "author": "Olivia Martin",
+      "title": "Economics for Dummies",
+      "price": 0.00,
+      "category": "free",
+      "img":"../../public/bookimg.jpg",
+      "description": "A beginner's guide to economics by Olivia Martin."
+    },
+    {
+      "id": 16,
+      "author": "Peter Brown",
+      "title": "Advanced Engineering Mathematics",
+      "price": 65.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An advanced guide to engineering mathematics by Peter Brown."
+    },
+    {
+      "id": 17,
+      "author": "Linda Scott",
+      "title": "Linear Algebra and Its Applications",
+      "price": 50.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A comprehensive study of linear algebra and its applications by Linda Scott."
+    },
+    {
+      "id": 18,
+      "author": "Andrew Walker",
+      "title": "Discrete Mathematics and Its Applications",
+      "price": 70.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A detailed guide to discrete mathematics and its applications by Andrew Walker."
+    },
+    {
+      "id": 19,
+      "author": "Sophia Harris",
+      "title": "Probability and Statistics for Engineers and Scientists",
+      "price": 0.00,
+      "category": "free",
+      "img":"../../public/bookimg.jpg",
+      "description": "An introductory guide for engineers by Sophia Harris."
+    },
+    {
+      "id": 20,
+      "author": "James King",
+      "title": "Abstract Algebra",
+      "price": 55.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A comprehensive study of abstract algebra by James King."
+    },
+    {
+      "id": 21,
+      "author": "Thomas Young",
+      "title": "Engineering Mechanics: Dynamics",
+      "price": 85.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A detailed guide to engineering mechanics dynamics by Thomas Young."
+    },
+    {
+      "id": 22,
+      "author": "Mary Jackson",
+      "title": "Introduction to Electrodynamics",
+      "price": 75.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An introductory guide to electrodynamics by Mary Jackson."
+    },
+    {
+      "id": 23,
+      "author": "Robert Maxwell",
+      "title": "Modern Physics for Scientists and Engineers",
+      "price": 90.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A modern approach to physics for scientists and engineers by Robert Maxwell."
+    },
+    {
+      "id": 24,
+      "author": "Anna Johnson",
+      "title": "Fluid Mechanics",
+      "price": 65.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A detailed guide to fluid mechanics by Anna Johnson."
+    },
+    {
+      "id": 25,
+      "author": "George Thompson",
+      "title": "Thermodynamics: An Engineering Approach",
+      "price": 80.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "An engineering approach to thermodynamics by George Thompson."
+    },
+    {
+      "id": 26,
+      "author": "Patricia Collins",
+      "title": "Solid State Physics",
+      "price": 70.00,
+      "category": "paid",
+      "img":"../../public/bookimg.jpg",
+      "description": "A comprehensive study of solid state physics by Patricia Collins."
+    }
+  ]
